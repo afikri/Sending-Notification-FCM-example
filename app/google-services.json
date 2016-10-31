@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8777638987",
+    "firebase_url": "https://firendroid-6a042.firebaseio.com",
+    "project_id": "firendroid-6a042",
+    "storage_bucket": "firendroid-6a042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8777638987:android:5aba93021ff88acb",
+        "android_client_info": {
+          "package_name": "com.afikri.firendroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8777638987-e6bvkmdkegei41e6qbdgs4q4ih55t22o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dVPN76GFsLFZqmj6ZJfTVOswotc7FaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
